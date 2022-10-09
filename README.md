@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alejandro, im a FullStack developer
 - 👀 I’m currently looking fdor a job as a fullstack developer, back or front end developer
 - 🌱 I graduated from Ironhacks intensive bootcamp for web development in May 2022.
-- 💞️ The technologies i currently work with are: Javascript, Express.js, Node.js, React.js, MongoDB, Jest, Handlebars, HTML & CSS, REST API's, Bootstrap, Mongoose & SQL
-- 🧑🏻‍💻Currently im expanding skills in: Typescript (On progress), Docker (On progress), MySQL , AJAX, Wordpress, and eventually more!
+- 💞️ The technologies i currently work with are: Javascript, Express.js, Node.js, React.js, MongoDB, Jest, Handlebars, HTML & CSS, REST API's, Bootstrap, Mongoose & SQL, MySql & SQLite.
+- 🧑🏻‍💻Currently im expanding skills in: Typescript (On progress), Docker (On progress), , and eventually more!
 - 📫 How to reach me? Ïf you want to reach me you can post me a comment in my Readme, by email at aleblancogovantes@hotmail.com for JOB OFFERS ONLY and put me some contact info.
 
 
