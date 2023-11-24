@@ -7,7 +7,8 @@
 
 Skills:
 
-javascript html5 css3 react nodejs express mongodb
+javascript html5 css3 react nodejs express mongodb next.js
+
 
 <!---
 abg1995/abg1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
